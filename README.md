@@ -1,3 +1,9 @@
+# SIMPLE-TODO-LIST
+
+<h2>Penjelasan</h2>
+<p>Website ini saya desain terlebih dahulu di figma agar mendapatkan gambaran terlebih dahulu. Setelah gambaran jadi lalu saya slicing dan saya implementasikan menjadi web desain.</p>
+<p>Website ini telah saya buat dengan menerapkan responsivitas agar menyesuaikan dengan ukuran device, selain itu saya menerapkan clean code. Pada website ini saya menggunakan react hooks yaitu useState, useContext, useEffect tetapi tidak menggunakan useReducer. Website ini juga telah menggunakan localstorage untuk media penyimpanannya.</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# SIMPLE-TODO-LIST
